@@ -89,9 +89,9 @@ Installiert Javascript Software oder Dateien mithilfe des node package managers.
 
 > \## secondary heading
 
-> \**bold*\* 
+> \**bold*\*      (2x _ or 2x * each side)
 
-> \_italicized_
+> \_italicized_   (1x _ or 1x * each side)
 
 > *listenpunkt
 
