@@ -89,7 +89,7 @@ Installiert Javascript Software oder Dateien mithilfe des node package managers.
 
 > \## secondary heading
 
-> \**bold**
+> \**bold*\* 
 
 > \_italicized_
 
