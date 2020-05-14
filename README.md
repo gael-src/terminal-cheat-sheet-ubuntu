@@ -1,4 +1,4 @@
-# Terminal Cheat sheet ubuntu
+# Terminal Cheat Sheet Ubuntu
 
 # Apollo 18 
 ## Terminal Cheat-Sheet (version 2)
