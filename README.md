@@ -5,20 +5,20 @@
 
 ### Navigation
 
-> **pwd** print working directory ‚zeige aktuelles Directory‘ </br>
-> **cd** steht for change directory und dient - unter Berücksichtigung von Groß- / Kleinschreibung! - zum Wechsel in ein (Unter-) Verzeichnis. cd ist ein eingebauter Befehl der Shell </br>
-> **cd /** is the only way to navigate to a directory to check log, execute a program/application/script and for every other task </br>
-> **cd ~ (alt-gr +)** cd ~ damit wird der Home Ordner bezeichnet, von dissen standpunkt aus kommt man zu smtlichen weiteren Verzeichnissen des PCs. In der regel Staret man auch an disen Punkt. </br>
-> **cd ..** Mariusz 15:01 Uhr
+> $ **pwd** print working directory ‚zeige aktuelles Directory‘ </br>
+> $ **cd** steht for change directory und dient - unter Berücksichtigung von Groß- / Kleinschreibung! - zum Wechsel in ein (Unter-) Verzeichnis. cd ist ein eingebauter Befehl der Shell </br>
+> $ **cd /** is the only way to navigate to a directory to check log, execute a program/application/script and for every other task </br>
+> $ **cd ~ (alt-gr +)** cd ~ damit wird der Home Ordner bezeichnet, von dissen standpunkt aus kommt man zu smtlichen weiteren Verzeichnissen des PCs. In der regel Staret man auch an disen Punkt. </br>
+> $ **cd ..** Mariusz 15:01 Uhr
 Wechselt ein Verzeichnis zurück (/media/disk -> /media) </br>
-> **cd -** wechselt zum letzten Arbeitsverzeichnis zurück </br>
+> $ **cd -** wechselt zum letzten Arbeitsverzeichnis zurück </br>
 
 ### Anzeigen
 
-> **ls** list directory contents </br>
-> **ls -l** ist ein Befehl, der Dateien und Verzeichnisse in einem Verzeichnis auflistet </br>
-> **ls -a** Als Parameter können Verzeichnis- oder Dateinamen übergeben werden.  ls -a zeige alle Dateien und Verzeichnisse an - auch die "versteckten", deren Namen mit einem Punkt beginnen. </br>
-> **ls -la** Zeigt eine detaillierte Liste an, in der Eigentümer, Gruppe, Erstellungsdatum, Größe und andere Parameter einschließlich versteckter Dateien angezeigt werden </br>
+> $ **ls** list directory contents </br>
+> $ **ls -l** ist ein Befehl, der Dateien und Verzeichnisse in einem Verzeichnis auflistet </br>
+> $ **ls -a** Als Parameter können Verzeichnis- oder Dateinamen übergeben werden.  ls -a zeige alle Dateien und Verzeichnisse an - auch die "versteckten", deren Namen mit einem Punkt beginnen. </br>
+> $ **ls -la** Zeigt eine detaillierte Liste an, in der Eigentümer, Gruppe, Erstellungsdatum, Größe und andere Parameter einschließlich versteckter Dateien angezeigt werden </br>
 
 ### Datei Manipulation
 
